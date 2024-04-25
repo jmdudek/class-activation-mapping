@@ -1,0 +1,6 @@
+tensorflow==2.16.*
+pillow
+jupyter
+matplotlib
+opencv-python
+tqdm
