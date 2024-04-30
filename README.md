@@ -15,7 +15,7 @@ This repository contains the code and presentation for our ([@GerritBartels](htt
 
 1. Clone the repository:
     ```shell
-    $ git clone https://github.com/GerritBartels/class-activation-mapping.git
+    $ git clone https://github.com/jmdudek/class-activation-mapping
     ```
 
 2. Navigate to the project directory:
